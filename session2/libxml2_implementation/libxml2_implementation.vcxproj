@@ -147,8 +147,13 @@
   <ItemGroup>
     <ClCompile Include="pointer_array.c" />
     <ClCompile Include="sample_array.c" />
+    <ClCompile Include="string_implementation.c" />
+    <ClCompile Include="student_array.c" />
     <ClCompile Include="xmlDoc_implementation.c" />
     <ClCompile Include="xmlDoc_with_nodes.c" />
+    <ClCompile Include="xmlNode_example.c" />
+    <ClCompile Include="xmlNode_test.c" />
+    <ClCompile Include="xmlNode_implementation.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

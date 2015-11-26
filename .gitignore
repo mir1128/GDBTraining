@@ -4,4 +4,4 @@
 *.user
 Debug/
 .vs/
-
+*.xml
