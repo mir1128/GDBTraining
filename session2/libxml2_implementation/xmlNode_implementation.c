@@ -24,3 +24,4 @@ struct _xmlNode {
 };
 
 */
+int main() {}

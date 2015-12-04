@@ -1,4 +1,4 @@
-/*
+
 #include <libxml/xmlmemory.h>
 #include <libxml/parser.h>
 #include <stdlib.h>
@@ -35,5 +35,5 @@ int main()
 	return 1;
 }
 
-*/
+
 

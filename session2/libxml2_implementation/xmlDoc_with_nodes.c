@@ -1,4 +1,4 @@
-/*
+
 #include <libxml/xmlmemory.h>
 #include <libxml/parser.h>
 
@@ -13,5 +13,5 @@ int main()
 	xmlFreeDoc(doc);
 	return 0;
 }
-*/
+
 

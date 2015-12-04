@@ -31,3 +31,5 @@ struct _xmlDoc {
 	int						properties;
 };
 */
+
+int main() {}
